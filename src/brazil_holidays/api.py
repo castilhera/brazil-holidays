@@ -1,5 +1,5 @@
 from datetime import date, timedelta
-from brazil_holidays.models import Holiday
+from .models import Holiday
 
 
 def get_easter_date(year: int) -> date:

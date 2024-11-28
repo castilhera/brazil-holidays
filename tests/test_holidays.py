@@ -1,5 +1,6 @@
 import unittest
 from datetime import date
+
 import brazil_holidays
 
 class TestBrazilHolidays(unittest.TestCase):
