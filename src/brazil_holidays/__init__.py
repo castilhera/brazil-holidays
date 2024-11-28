@@ -1,6 +1,12 @@
-from .models.holiday import Holiday
-from .services.holiday import HolidayService
+"""
+Brazilian Holidays API
+~~~~~~~~~~~~~~~~~~~~~
 
-__all__ = [
-    "HolidayService", "Holiday"
-]
+Library to get the brazilian holidays.
+"""
+from .models import Holiday
+
+from .api import (
+    get_easter_date,
+    get_national_holidays
+)
