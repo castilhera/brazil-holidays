@@ -13,7 +13,7 @@ Data | Evento
 02/11 | Finados
 15/11 | Proclamação da República
 25/12 | Natal
-20/11 | Dia da Consciência Negra (à partir de 2023)
+20/11 | Dia da Consciência Negra (à partir de 2024)
 
 ## Feriados Móveis
 
